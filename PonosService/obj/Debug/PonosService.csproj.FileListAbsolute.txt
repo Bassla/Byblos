@@ -1,0 +1,14 @@
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\PonosService.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\PonosService.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\PonosData.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\PonosDomaine.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\Service.Pattern.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\EntityFramework.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\Service.Pattern.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\PonosData.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\PonosDomaine.pdb
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\EntityFramework.xml
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\bin\Debug\fr\EntityFramework.resources.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\obj\Debug\PonosService.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\obj\Debug\PonosService.dll
+c:\users\lenovo\documents\visual studio 2015\Projects\Ponos\PonosService\obj\Debug\PonosService.pdb
